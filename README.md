@@ -1,4 +1,5 @@
-Ufly
+Ufly (Protocol for the automated analysis of Drosophila melanogaster embryogenesis gene expression pattern images)
 ====
 
-Protocol for the automated analysis of Drosophila melanogaster embryogenesis gene expression pattern images
+
+
