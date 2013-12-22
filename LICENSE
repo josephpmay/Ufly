@@ -1,3 +1,10 @@
+NOTICE: As this project relies on previous work, not all code or dependencies
+are covered under this license. It is your responsibility to identify the 
+propper licensing, patent, and copywrite information before using any of this
+protocol for commercial purposes. Joseph May, Pine Crest School, or the University
+of Miami are not liable for any damages caused by failure to identify propper
+licensing, patent, or copywrite information. 
+
 The MIT License (MIT)
 
 Copyright (c) 2013 josephpmay
