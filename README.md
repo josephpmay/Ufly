@@ -14,4 +14,4 @@ Requirements/Dependencies:
 
 Images used in datasets: Berkely Drosophila Genome Project
 
-	*Link: http://insitu.fruitfly.org/cgi-bin/ex/insitu.pl
+Link: http://insitu.fruitfly.org/cgi-bin/ex/insitu.pl
