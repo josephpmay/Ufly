@@ -13,4 +13,5 @@ Requirements/Dependencies:
 	*VL_Feat (www.vlfeat.org) open source implamentation of SIFT algorithim with Matlab wrapper
 
 Images used in datasets: Berkely Drosophila Genome Project
-	Link: http://insitu.fruitfly.org/cgi-bin/ex/insitu.pl
+
+	*Link: http://insitu.fruitfly.org/cgi-bin/ex/insitu.pl
