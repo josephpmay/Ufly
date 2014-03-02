@@ -11,7 +11,7 @@ inputCSV = csvread(files(k).name);
 display(k)
 interestpoints = [interestpoints inputCSV];
 end
-interestpoints2 = interestpoints.'
+interestpoints2 = interestpoints.';
 testValues = interestpoints2(1:10:end,:);
 
 
